@@ -1,0 +1,22 @@
+.banner-image{
+  height: 100vh;
+}
+.banner-image1{
+  background-image: url("../images/slider-2.jpg");
+  height: 80vh;
+}
+.banner-image2{
+  background-image: url("../images/slider-3.jpg");
+  height: 80vh;
+}
+.banner-image3{
+  background-image: url("../images/slider-1.jpg");
+  height: 80vh;
+}
+.my-image{
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+
+  border: rounded-circle border-white
+}
